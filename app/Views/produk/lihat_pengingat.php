@@ -51,7 +51,7 @@
                         <li><?= htmlspecialchars($notification['days']) ?> hari sebelum kadaluarsa, yaitu: <?= htmlspecialchars($notification['date']) ?></li>
                     <?php endforeach; ?>
                 </ul>
-                <a href="<?= base_url('/produk') ?>" class="btn btn-secondary">Kembali</a>
+                <a href="<?= base_url('/produk') ?>" class="btn btn-secondary">Kembali</a>                
             </div>
         </div>
 

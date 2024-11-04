@@ -73,13 +73,13 @@
                             <input type="date" class="form-control" name="tanggal_kadaluarsa" required>
                         </div>
                         <div class="form-group">
-    <label>Pengaturan Notifikasi:</label>
-    <div>
-        <input type="checkbox" name="pengingat[]" value="7"> 7 Hari Sebelum Kadaluarsa
-        <input type="checkbox" name="pengingat[]" value="3"> 3 Hari Sebelum Kadaluarsa
-        <input type="checkbox" name="pengingat[]" value="1"> 1 Hari Sebelum Kadaluarsa
-    </div>
-</div>
+                            <label>Pengaturan Notifikasi:</label>
+                            <div>
+                                <input type="checkbox" name="pengingat[]" value="7"> 7 Hari Sebelum Kadaluarsa
+                                <input type="checkbox" name="pengingat[]" value="3"> 3 Hari Sebelum Kadaluarsa
+                                <input type="checkbox" name="pengingat[]" value="1"> 1 Hari Sebelum Kadaluarsa
+                            </div>
+                        </div>
 
                         <button type="submit" class="btn btn-primary">Simpan</button>
                     </form>
