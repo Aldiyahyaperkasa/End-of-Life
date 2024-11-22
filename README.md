@@ -1,3 +1,14 @@
+# LOGIN
+username : admin
+password : admin
+
+username : manager
+password : manager
+
+username : staff
+password : staff
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
